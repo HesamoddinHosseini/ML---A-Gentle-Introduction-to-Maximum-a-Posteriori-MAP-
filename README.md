@@ -1,4 +1,4 @@
-# ML- A Gentle Introduction to Maximum a Posteriori (MAP)
+# ML - Maximum a Posteriori (MAP)
 
 
 Density estimation is the problem of estimating the probability distribution for a sample of observations from a problem domain.
