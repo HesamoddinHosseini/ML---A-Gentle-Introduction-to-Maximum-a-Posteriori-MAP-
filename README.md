@@ -1,6 +1,6 @@
-# ML - Maximum a Posteriori (MAP)
+# ML - A Gentle Introduction to Maximum a Posteriori (MAP)
 
-
+ 
 Density estimation is the problem of estimating the probability distribution for a sample of observations from a problem domain.
 
 Typically, estimating the entire distribution is intractable, and instead, we are happy to have the expected value of the distribution, such as the mean or mode. Maximum a Posteriori or MAP for short is a Bayesian-based approach to estimating a distribution and model parameters that best explain an observed dataset.
