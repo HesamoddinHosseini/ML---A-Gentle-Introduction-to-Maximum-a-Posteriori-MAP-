@@ -1,3 +1,8 @@
+% Project Title: MAP
+% Author: Hesamoddin Hosseini
+% Contact: hesamoddin.hosseini@mail.um.ac.ir
+% Websit:http://hesamoddin.hosseini.student.um.ac.ir
+        
 from scipy import stats
 import numpy as np
 from scipy.optimize import minimize
