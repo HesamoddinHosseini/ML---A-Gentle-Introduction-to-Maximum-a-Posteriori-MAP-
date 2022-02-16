@@ -8,3 +8,5 @@ Typically, estimating the entire distribution is intractable, and instead, we ar
 
 This flexible probabilistic framework can be used to provide a Bayesian foundation for many machine learning algorithms, including important methods such as linear regression and logistic regression for predicting numeric values and class labels respectively, and unlike maximum likelihood estimation, explicitly allows prior belief about candidate models to be incorporated systematically.
 
+Hesamoddin Hosseini
+
