@@ -1,3 +1,7 @@
+% Project Title: MAP
+% Author: Hesamoddin Hosseini
+% Contact: hesamoddin.hosseini@mail.um.ac.ir
+% Websit:http://hesamoddin.hosseini.student.um.ac.ir
 # -*- coding: utf-8 -*-
 """Maximum a Posteriori .ipynb
 
